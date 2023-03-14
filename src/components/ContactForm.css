@@ -1,0 +1,19 @@
+form {
+    position: absolute;
+    top:75%;
+    float: left;
+    gap: 10px;
+    padding-left: 500px;
+    font-size: 20px;
+}
+label, input{
+    display:block;
+    
+}
+label {
+    margin-bottom: 20px;
+}
+button{
+    position: absolute;
+    right:5%;
+}

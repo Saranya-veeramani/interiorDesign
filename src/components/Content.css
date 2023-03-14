@@ -1,0 +1,85 @@
+
+  
+  .col {
+    padding-right: 20px;
+    text-align: justify;
+  }
+  
+  .col1 h2{
+    text-align: center;
+    
+      }
+      .col1 p{
+        text-align: center;
+        font-size: 15px;
+      }
+  
+      .col2 h2{
+        text-align: center; 
+        
+
+          }
+          .col2 p{
+            text-align:center; 
+            font-size: 15px;
+
+                      }
+                      .col3 h2{
+                        text-align: center; 
+                        
+
+                          }
+                          .col3 p{
+                            text-align: center; 
+                            font-size: 15px;
+
+                          }
+                            .col4 h2{
+                            text-align: center;
+                              }
+
+                              .row .col4 p{
+                                text-align: center; 
+                                font-size: 15px;
+
+                              }
+                              .row.col5 h2{
+                                text-align: center;
+                                margin-right: 10px; 
+                                background-color:'lightgray';
+                                
+
+                                  }
+                                  .row.col5 p{
+                                    text-align: center; 
+                                    font-size: 15px;
+                                    text-decoration: none;
+
+                                  }
+                                  .row.col6 h2{
+                                    text-align: center;
+
+                                      }
+                                     .row .col6 p{
+                                        text-align: center;
+                                        font-size: 15px;
+                                      }
+  .projIntRetail {
+    display: flex;
+    padding-top: 50px;
+  }
+  .row{
+    display: flex;
+    padding-top: 70px;
+    text-align: center;
+  }
+  
+    
+    
+    
+    
+    
+    .p{
+      display: flex;
+      margin-top: 550px;
+    } 

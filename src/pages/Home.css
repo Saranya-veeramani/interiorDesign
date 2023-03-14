@@ -1,0 +1,190 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.PicImg {
+
+    width: 200px;
+    height: 400px;
+    }
+
+nav {
+    background: rgb(250, 251, 251);
+    height: 80px;
+    max-width: 100%;
+}
+
+.ImagePic {
+    
+   width: 450px; 
+   height: 250px;
+   border-radius: 30px 30px;
+}
+
+.ImagePic2 {
+    width: 350px; 
+    height: 350px;
+    border-radius: 0px 150px 0px 50px;
+ }
+
+.People1{
+
+        border-radius: 50%;
+}
+
+.People2{
+
+    border-radius: 50%;
+}
+
+.People3{
+
+    border-radius: 50%;
+}
+
+ .parent {
+    
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  }
+  .child {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+  }
+
+ .Pic2 {
+    width: 280px; 
+    height: 280px;
+    border-radius: 0px 50px 0px 0px;
+ }
+
+ .Pic3 {
+    width: 280px; 
+    height: 280px;
+    border-radius: 50px 0px 0px 0px;
+ }
+
+ .Pic4 {
+    width: 280px; 
+    height: 280px;
+    border-radius: 0px 0px 50px 0px;
+ }
+
+ .Pic5 {
+    width: 280px; 
+    height: 280px;
+    border-radius: 0px 0px 0px 50px;
+ }
+
+ .Image3 {
+    width: 200px; 
+    height: 200px;
+    border-radius: 40px 40px 0px 0px;
+ }
+
+ .Image4 {
+    width: 200px; 
+    height: 200px;
+    border-radius: 40px 40px 0px 0px;
+ }
+
+ .Image5 {
+    width: 200px; 
+    height: 200px;
+    border-radius: 40px 40px 0px 0px;
+ }
+
+nav ul {
+    float: right;
+    margin-right: 40px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 20px;
+    align-items: center;
+    line-height: 80px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+.top-left {
+    position: absolute;
+
+    left: 16px;
+}
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+  .flex {
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    background-color: #7d7d7d;
+    color: #000000;
+    font-weight: bold;
+  }
+  
+  .flex2 {
+    justify-content: space-around;
+  }
+  
+  #Pic {
+    border: 2px solid red;
+    padding: 50px;
+    border-top-left-radius: 60%;
+  }
+.navBarUl {
+
+    
+    padding: 5px;
+    display: flex;
+    list-style: none;
+    margin-left: 400px;
+}
+
+.navBarUl li {
+    float: left; 
+    padding-left: 30px;
+    padding-right: 10px;
+    text-align:center;
+    color: white;
+}
+
+
+.phoneImage {
+    position: relative;
+    top: 0;
+    left: 0;
+    color: rgba(236, 188, 126, 0.886);
+    border: 1px solid #000000
+
+
+}
+
+
+
+.checkButton {
+    float: right;
+    margin-right: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    line-height: 80px;
+    visibility: hidden;
+    /* display: none; */
+}
+
+#check {
+    display: none;
+}
+

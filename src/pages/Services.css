@@ -1,0 +1,20 @@
+.bg-image {
+  
+  object-fit: cover;
+  position: relative;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+       
+ .textonimage {
+  transform: translate(-1350%, 350%);
+  z-index: 1;
+  margin-top: -5%;
+  background-color: white;
+  border: 1px white;
+ }

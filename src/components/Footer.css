@@ -1,0 +1,56 @@
+
+  
+  .footer {
+    display: flex;
+    background-color:white; /* Set the background color */
+    color: black; /* Set the text color */
+    padding: 20px; /* Add padding */
+    text-align: center; /* Center the text */
+    position: absolute; /* Fix the position to the bottom of the viewport */
+    top: 500%; /* Position the footer at the bottom of the viewport */
+    width: 100%; /* Make the footer span the entire width of the viewport */
+  }
+  
+  .footer p{
+    text-align: justify;
+    position:static;
+    
+  }
+  .footer h1{
+    position:absolute;
+    bottom: 130px;
+    
+  }
+  
+
+      .Lists1  {
+        display: flex;
+        flex-direction:column ;
+        margin-right: 755px; /* add some spacing between the list items */
+                list-style: none;
+        right: -150px;
+        position: absolute;
+        top: 9px;
+        bottom: 120px;
+         
+        
+      
+      }
+      .Lists ul{
+        list-style: none;
+        gap: 10px;
+
+      }      
+      .lists2{
+        position: absolute;
+        right: 350px;
+      }
+      li{
+        list-style: none;
+                
+      }
+      
+      .Contact{
+        position: absolute;
+        right: 40px;
+      }
